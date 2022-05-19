@@ -1,5 +1,5 @@
 
-/* Autor: Andriks Imanol Ruiz Martinez fecha:03/02/2022
+/* Autor: Luis Gonzalo Guzman Sanchez fecha:03/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
 Materia: Programación Estructurada
 Ciclo: 01/2022
